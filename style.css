@@ -1,62 +1,44 @@
-/* Background gambar untuk seluruh halaman */
 body {
-  margin: 0;
-  font-family: 'Arial', sans-serif;
-  height: 100vh;
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(135deg, #81C784, #A5D6A7);
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url('c:\Users\HP\OneDrive\Gambar\Saved Pictures\10378.jpg'); /* ganti path sesuai lokasi gambar */
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
+  height: 100vh;
 }
 
-/* Container login */
 .login-container {
-  background-color: rgba(25, 255, 255, 0.85); /* putih transparan supaya form tetap jelas */
-  padding: 40px 50px;
-  border-radius: 16px;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  background: #fff;
+  padding: 40px;
+  border-radius: 20px;
   text-align: center;
-  width: 300px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
 }
 
-/* Judul dan paragraf */
-.login-container h1 {
-  margin-bottom: 10px;
-  color: #6a1b9a;
-}
-
-.login-container p {
+.logo {
+  width: 100px;
   margin-bottom: 20px;
-  color: #555;
 }
 
-/* Input form */
-.login-container input {
-  width: 100%;
-  padding: 12px 15px;
-  margin-bottom: 15px;
-  border: none;
-  border-radius: 8px;
-  background-color: #f0f0f0;
-  font-size: 14px;
+input {
+  width: 80%;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 10px;
+  border: 1px solid #ccc;
 }
 
-/* Tombol login */
-.login-container button {
-  width: 100%;
-  padding: 12px;
-  border: none;
-  border-radius: 8px;
-  background-color: #6a1b9a;
+button {
+  width: 85%;
+  padding: 10px;
+  background: #81C784;
   color: white;
-  font-size: 16px;
+  border: none;
+  border-radius: 10px;
+  font-weight: bold;
   cursor: pointer;
-  transition: background 0.3s ease;
 }
 
-.login-container button:hover {
-  background-color: #4a148c;
+button:hover {
+  background: #66BB6A;
 }
