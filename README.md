@@ -9,19 +9,7 @@ This project is a simple Login Interface built using HTML + CSS with a custom co
 Nama:Zahra Auliana  
 NIM:232101224  
 Kelas/Kelompok:TIF RP23I  
-Peran: Desain UI dan Frontend  
-
-Nama: m Ikrim  
-NIM: 232101225  
-Kelas/Kelompok: TIF RP23I  
-Peran: Backend Integration  
-
-Nama: Indra Purnama  
-NIM: 232101226  
-Kelas/Kelompok: TIF RP23I  
-Peran:Desain UI dan Frontend  
-
----
+Peran: Desain UI dan Frontend  , Backend Integration  
 
 ## 🎨 Design Theme
 
@@ -43,4 +31,5 @@ Peran:Desain UI dan Frontend
 
 1. Clone this repository:
    ```bash
+
    git clone https://github.com/zauliana856/login-ui-project.git
