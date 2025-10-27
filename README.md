@@ -21,9 +21,9 @@ Peran: Desain UI dan Frontend  , Backend Integration
 
 ## 📸 Screenshot
 
-![Login UI Screenshot](login_ui_project.jpg)
+![Login UI Screenshot](login_project.jpg)
 
-*(Pastikan file gambar login_ui_project.jpg ada di folder yang sama dengan README.md)*
+*(Pastikan file gambar login_project.jpg ada di folder yang sama dengan README.md)*
 
 ---
 
@@ -32,4 +32,5 @@ Peran: Desain UI dan Frontend  , Backend Integration
 1. Clone this repository:
    ```bash
 
-   git clone https://github.com/zauliana856/login-ui-project.git
+   git clone https://github.com/zauliana856/login_project.git
+
